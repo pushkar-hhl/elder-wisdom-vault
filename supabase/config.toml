@@ -1,0 +1,2 @@
+[functions.process-story]
+verify_jwt = true
